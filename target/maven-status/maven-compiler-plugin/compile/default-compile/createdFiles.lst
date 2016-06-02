@@ -1,0 +1,11 @@
+com/ejemplo/jpa/sessions/KripaSession.class
+com/ejemplo/jpa/entities/Kripa.class
+com/ejemplo/jpa/sessions/UsuarioSession.class
+com/ejemplo/jpa/sessions/CocainaSession.class
+com/ejemplo/rest/services/UsuarioRest.class
+com/ejemplo/jpa/entities/Cocaina.class
+com/ejemplo/jpa/entities/Cocaina_.class
+com/ejemplo/jpa/entities/Kripa_.class
+com/ejemplo/jpa/entities/Usuario.class
+com/ejemplo/rest/services/ApplicationConfig.class
+com/ejemplo/jpa/entities/Usuario_.class
